@@ -1,0 +1,590 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        is-multidex="true"
+        jar="/Users/shreyaasridhar/.android/build-cache/5425d5a0ad695ec55e43302aa6c81301d377b3ec/output/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="07b52724ade6a26fecb53090da1574913fc78639">
+        <dex dex="/Users/shreyaasridhar/Downloads/android-samples-master/tutorials/CurrentPlaceDetailsOnMap/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_0a2cae9b8259d966597df31d68c0d6a2ed481fec/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/shreyaasridhar/.android/build-cache/f413cfa0ac35028e3f9167acbf576ab75da99a82/output/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="56ae1b700bdd20fdf8c5347fadcc96228fc1bf16">
+        <dex dex="/Users/shreyaasridhar/Downloads/android-samples-master/tutorials/CurrentPlaceDetailsOnMap/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_1fe308ba6806d20970927adf20820f4aa4b33827/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/shreyaasridhar/.android/build-cache/13fc07eee75700fb32cef914115dabe1076a534a/output/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="d7c42c80f6509b9ea4db28ca7859ffae08ec5741">
+        <dex dex="/Users/shreyaasridhar/Downloads/android-samples-master/tutorials/CurrentPlaceDetailsOnMap/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_b67536ace467229d5e48c6f6426befdace63b745/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/shreyaasridhar/.android/build-cache/194756fea4ec0d94a3c0331024ff4ce4198541f0/output/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="9be5e957849eb82ad9addf9bdb2896de8bf5654b">
+        <dex dex="/Users/shreyaasridhar/Downloads/android-samples-master/tutorials/CurrentPlaceDetailsOnMap/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_48d718573907e52c39e6671a20f435364263c15e/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/shreyaasridhar/.android/build-cache/bc32f733ab2419b0fab6cbe8e143fa8b15559104/output/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="6987a74958e42b559fd0eacef972173f59ba93bb">
+        <dex dex="/Users/shreyaasridhar/Downloads/android-samples-master/tutorials/CurrentPlaceDetailsOnMap/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_03654855bfd1f3e6676405b6abcd98de89a1e63c/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/shreyaasridhar/.android/build-cache/e93e0c4a08c2871482b3987257851d1c0e655ff8/output/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="8fe8a8f77d651982ce5e18f6187dc4daf914ac57">
+        <dex dex="/Users/shreyaasridhar/Downloads/android-samples-master/tutorials/CurrentPlaceDetailsOnMap/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_a7662f4b4895e11c2193242007b279877e0a1c30/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/shreyaasridhar/.android/build-cache/894e4cb05a040cf8d769fb9a35ce93dd55c8db6f/output/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="171b54791d6ecec42ffc943bf9ea1a363ff6ab4f">
+        <dex dex="/Users/shreyaasridhar/Downloads/android-samples-master/tutorials/CurrentPlaceDetailsOnMap/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_bf6dbeba8b2e3fee1fea27681709300ec0383cc1/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/shreyaasridhar/.android/build-cache/10aa93155b1f9adbe43d8e0248cb3e0b4cbe6874/output/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="af13a350b71b437ebf4be335d02a8f785c39b111">
+        <dex dex="/Users/shreyaasridhar/Downloads/android-samples-master/tutorials/CurrentPlaceDetailsOnMap/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_1c06184bfec79b334e0cc887163a7c29cd8d457d/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/shreyaasridhar/.android/build-cache/4baedc362588f3bbdc6c7c0f2fa1b4313b894fae/output/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="83f83593e58b678e8e6b8db6cf1fd8fe0e22dfe1">
+        <dex dex="/Users/shreyaasridhar/Downloads/android-samples-master/tutorials/CurrentPlaceDetailsOnMap/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_2b8180f3997102b2830c320f7149f5709ae2ed2a/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/shreyaasridhar/.android/build-cache/b64559c81b63a29ee214e50c871368c05c233666/output/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="a3a0d55874ee03de768356d540983a20c95dd07a">
+        <dex dex="/Users/shreyaasridhar/Downloads/android-samples-master/tutorials/CurrentPlaceDetailsOnMap/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_5f530ca543a7ba5edb554e41e84fbaa5a602cd46/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/shreyaasridhar/Downloads/android-samples-master/tutorials/CurrentPlaceDetailsOnMap/app/build/intermediates/incremental-classes/debug/instant-run-bootstrap.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="0bdf728789aec6646ab72e7be89c061a36c61c36">
+        <dex dex="/Users/shreyaasridhar/Downloads/android-samples-master/tutorials/CurrentPlaceDetailsOnMap/app/build/intermediates/transforms/dex/debug/folders/1000/10000/instant-run-bootstrap_85653b4b0933a81658aeb8404451b05a54f7dc2a/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/shreyaasridhar/.android/build-cache/2eb114d51ad87378943435d6595360647e8f17be/output/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="cad6f251cba07624f49b0c5b6287731a3c9957b8">
+        <dex dex="/Users/shreyaasridhar/Downloads/android-samples-master/tutorials/CurrentPlaceDetailsOnMap/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_6abdeece0a07dcd2cd9ef26f4deb404888061b0e/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/shreyaasridhar/.android/build-cache/2380ee4244303b5c97bce105b9a069cae13e0204/output/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="2df69841cd9793d6bfa2f78b7b7f4ea06d2296a7">
+        <dex dex="/Users/shreyaasridhar/Downloads/android-samples-master/tutorials/CurrentPlaceDetailsOnMap/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_477a456ea4deb5c6af66ccdea416b84d4d7ec79e/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/shreyaasridhar/.android/build-cache/23c82d45f7d82f7945787ec0f7e3c45e9ea32e24/output/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="816a71eb5b0340d26db3056aa33f58dad108315b">
+        <dex dex="/Users/shreyaasridhar/Downloads/android-samples-master/tutorials/CurrentPlaceDetailsOnMap/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_ec2196573ea3674bb562dc3439e7d65af8772446/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/shreyaasridhar/.android/build-cache/7c671230f3ebcb7c99f4722cdb895707cf273601/output/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="132a3661719fdac703f2a6f6a7b178c85cfe3cc6">
+        <dex dex="/Users/shreyaasridhar/Downloads/android-samples-master/tutorials/CurrentPlaceDetailsOnMap/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_0660f4b9f8f8825209e4d0a6c875e70f7aed68f7/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/shreyaasridhar/.android/build-cache/3c91d6349e9ce3bcd7aaeddda0b12d056873235d/output/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="9c80e982366ff105ce567a3e536cb77ae4981ade">
+        <dex dex="/Users/shreyaasridhar/Downloads/android-samples-master/tutorials/CurrentPlaceDetailsOnMap/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_b2a6810af3623d294bb1885e65298786576af338/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/shreyaasridhar/.android/build-cache/18fc3d8aa11052773aec131d0effeab64ccd9714/output/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="0a3ae2ca8e64cdda4ae59aef07e33226cb950f5c">
+        <dex dex="/Users/shreyaasridhar/Downloads/android-samples-master/tutorials/CurrentPlaceDetailsOnMap/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_b8e25d07e1c37f79a8c38b345fa641cd74826efe/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/shreyaasridhar/.android/build-cache/a665faaa9175b32dafb8efc2dd8652d28b47fcab/output/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="a2a935bcf7d7c529f04dc89905d1ddf678d5e692">
+        <dex dex="/Users/shreyaasridhar/Downloads/android-samples-master/tutorials/CurrentPlaceDetailsOnMap/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_6f881a5dfbd2472facb78c3d2df9c703cb0e4fc6/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/shreyaasridhar/.android/build-cache/ea26490eb0708a6b9174908ccd37c0ee4d67074f/output/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="7b4dc2d9e39fb8ec5ddca9b3b3cb7c627690f3a6">
+        <dex dex="/Users/shreyaasridhar/Downloads/android-samples-master/tutorials/CurrentPlaceDetailsOnMap/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_2dd0fe1639a9cf851d0c8c0a01d816bd249686bb/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/shreyaasridhar/.android/build-cache/fd6aba5567c0a55768132194929c871c32e78f20/output/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="d1e7ad8d5340b695e52cc5a14819f4264a4f4b8e">
+        <dex dex="/Users/shreyaasridhar/Downloads/android-samples-master/tutorials/CurrentPlaceDetailsOnMap/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_32b1db0595786269a8dc8c5387a6724acbc6ee7d/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/shreyaasridhar/.android/build-cache/f409c4dd3c088bd3598a5672dc47a9124611309e/output/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="103378d4e51581df4783e9e4a59a1775fe4f4104">
+        <dex dex="/Users/shreyaasridhar/Downloads/android-samples-master/tutorials/CurrentPlaceDetailsOnMap/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_78ae4a28078627d94629379fdfbd655a69a24321/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/shreyaasridhar/.android/build-cache/7d6bca2bfab2e0c0f26505dac9277d7f29794c47/output/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="67a51ae54d61ca318e61c73cdd9b27ec56af03bc">
+        <dex dex="/Users/shreyaasridhar/Downloads/android-samples-master/tutorials/CurrentPlaceDetailsOnMap/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_0d38bb1192140c9434b60549821428ca5d3f425b/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/shreyaasridhar/.android/build-cache/2694d27b3241c715926024dec5503b5cc08cbf7f/output/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="fa0446a14ed5dd3725047d6399ffea771a564b30">
+        <dex dex="/Users/shreyaasridhar/Downloads/android-samples-master/tutorials/CurrentPlaceDetailsOnMap/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_97e21e7d1c7254db900c150bbbd5b5826311b022/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/shreyaasridhar/.android/build-cache/f23a3ce0ac759d7f957519dfab0d9ac0b2c9cbb9/output/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="41872d809cff2114169756aad6dcd593be2ecb59">
+        <dex dex="/Users/shreyaasridhar/Downloads/android-samples-master/tutorials/CurrentPlaceDetailsOnMap/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_a85e4fe31b4a1769a6ce6592f7c553cce8e81f3b/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/shreyaasridhar/.android/build-cache/991a1bfee060357b5b762df39106e66be6e58e8e/output/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="7cf5def5a11365487219b912b2a7ba8ad26f9917">
+        <dex dex="/Users/shreyaasridhar/Downloads/android-samples-master/tutorials/CurrentPlaceDetailsOnMap/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_cab4876a22a7bac6fa9f8a7f1aeb5fd086ba3101/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/shreyaasridhar/.android/build-cache/aff393557d79a33bae74c4d976bc99829f9531c2/output/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="3da345d7c08a7e9d83a34d8723057624b941c0ea">
+        <dex dex="/Users/shreyaasridhar/Downloads/android-samples-master/tutorials/CurrentPlaceDetailsOnMap/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_f20042a1aa964df85c457bcd24fc62f7e314c621/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/shreyaasridhar/.android/build-cache/08e92f74c3586ceff8a8c8cc0f7c18db4d84baf8/output/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="edba0aec4aedd4edb3a520b4ee87adc52be762da">
+        <dex dex="/Users/shreyaasridhar/Downloads/android-samples-master/tutorials/CurrentPlaceDetailsOnMap/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_9f79a5a7d1901fca1c9cf5140e46177975bb8120/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/shreyaasridhar/.android/build-cache/5a3643e488362bfbc01c9b1142bd7b78c3f156e7/output/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="cb454b52545859ed2f24a6c01366805b0fa04b22">
+        <dex dex="/Users/shreyaasridhar/Downloads/android-samples-master/tutorials/CurrentPlaceDetailsOnMap/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_68a4b4f1c4ea6e27f0bd896326488d8a65bfc26a/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/shreyaasridhar/.android/build-cache/d9da9acd1e9c37efb24d15a509d7b06e639e7783/output/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="c6a5692945e9d4bc34baddb4f7cb79070038f739">
+        <dex dex="/Users/shreyaasridhar/Downloads/android-samples-master/tutorials/CurrentPlaceDetailsOnMap/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_08bd187492bda0baac537a438ca99f82948d632c/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/shreyaasridhar/.android/build-cache/d2fabf1002c049d9c4d6c09b6654a1228cc498c4/output/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="57717bc4b81722a9c3e481fc6f150a950afd550c">
+        <dex dex="/Users/shreyaasridhar/Downloads/android-samples-master/tutorials/CurrentPlaceDetailsOnMap/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_20af9d2a614afc5666b090a0ba6d67b963c930b7/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/shreyaasridhar/.android/build-cache/2d89df3f3f4935b7fc716f7ca3ccba4229221476/output/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="00e57da8e7efba5e0aead2d3c76201d86918a0d1">
+        <dex dex="/Users/shreyaasridhar/Downloads/android-samples-master/tutorials/CurrentPlaceDetailsOnMap/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_52603dd224b2bf78cda1e32158a187641a940fe8/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/shreyaasridhar/.android/build-cache/55862f6ac59c750e88b3e1c79336b181a2d69af5/output/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="810f41e5b7fd99f196ebeabe865ba2c54e7e76dc">
+        <dex dex="/Users/shreyaasridhar/Downloads/android-samples-master/tutorials/CurrentPlaceDetailsOnMap/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_4e765c79cc1de914fa98998655e759ee62f1b199/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/shreyaasridhar/.android/build-cache/7dba0ef833fc1a733019f0c14a7e9d054fe037d3/output/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="694e2bf7a21fa46310a4a0309b9943060d573abe">
+        <dex dex="/Users/shreyaasridhar/Downloads/android-samples-master/tutorials/CurrentPlaceDetailsOnMap/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_44c0727be4edb569236d612ffa46ff43cd6ddd79/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/shreyaasridhar/.android/build-cache/c100196303ca071985db69dd9c14ba4b18f72afb/output/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="03589bac12234193d4a7a9b106a6db1b367afe99">
+        <dex dex="/Users/shreyaasridhar/Downloads/android-samples-master/tutorials/CurrentPlaceDetailsOnMap/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_a4cd2e6193728dfc6ed03d25735437e8034988bf/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/shreyaasridhar/.android/build-cache/ef1bbcc45c71b68a8280f9b70be9bc9ca01b7517/output/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="767b85989de73cb665e14510ff2657ef979241f9">
+        <dex dex="/Users/shreyaasridhar/Downloads/android-samples-master/tutorials/CurrentPlaceDetailsOnMap/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_40500d4986435ab1dbff41bd6a3819607f91ae7d/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/shreyaasridhar/.android/build-cache/f93093fdcee36a5f2ff92442f46c46d8035eafe0/output/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="76a7a625df0e9027b53dbed6e9ba9a6031a42e39">
+        <dex dex="/Users/shreyaasridhar/Downloads/android-samples-master/tutorials/CurrentPlaceDetailsOnMap/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_5a366a6c02ca9c25d7f49bac71e17b90fd143724/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/shreyaasridhar/Library/Android/sdk/extras/android/m2repository/com/android/support/support-annotations/25.2.0/support-annotations-25.2.0.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="4a5a82a027706397fff621b22fd6fa796e91d7c5">
+        <dex dex="/Users/shreyaasridhar/Downloads/android-samples-master/tutorials/CurrentPlaceDetailsOnMap/app/build/intermediates/transforms/dex/debug/folders/1000/10/support-annotations-25.2.0_97f1a8f376536275b25c1ea81145968cde686bf8/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/shreyaasridhar/.android/build-cache/c01c0f0dda83c26b16e5e9dcdb8819827a97226b/output/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="f779085940b4f3c80ea711dc24a36649f16f4cd5">
+        <dex dex="/Users/shreyaasridhar/Downloads/android-samples-master/tutorials/CurrentPlaceDetailsOnMap/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_f5db0f61705faaed9f1e34fedc1d3f5d28d5b01f/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/shreyaasridhar/.android/build-cache/7db0f04db61f645e4d2aa9481c2affc3e5092773/output/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="67eb33110dbacb46a48175b08ae0c96761d2c17d">
+        <dex dex="/Users/shreyaasridhar/Downloads/android-samples-master/tutorials/CurrentPlaceDetailsOnMap/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_87385bbba0891ad362bbfe9b3209e2863ff094cb/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/shreyaasridhar/.android/build-cache/96bdcf75142d8b8a208721025f2b517c7bd58fc8/output/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="31aafe75ac42184d700ec3f862bf735c33ba201a">
+        <dex dex="/Users/shreyaasridhar/Downloads/android-samples-master/tutorials/CurrentPlaceDetailsOnMap/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_f06e10756b97f707309be9d5e3937b2d914c0ae2/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/shreyaasridhar/.android/build-cache/4ac511c29382344281f2775e5aac30fe978cea8f/output/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="e82b33733f801187c5b502d56fe1e3014de84b71">
+        <dex dex="/Users/shreyaasridhar/Downloads/android-samples-master/tutorials/CurrentPlaceDetailsOnMap/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_5e23c529cca21259e7da6a108e883d8b6287844c/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/shreyaasridhar/.android/build-cache/94b502b3ef3a33f8adc72a4334bc4136b9a60986/output/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="ee394a892dd21c03a528139c1e8d4e0e1264ac84">
+        <dex dex="/Users/shreyaasridhar/Downloads/android-samples-master/tutorials/CurrentPlaceDetailsOnMap/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_4e7decc164285e2001674978cad9dc88c6f5b149/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/shreyaasridhar/.android/build-cache/261ff1724dd606bc42fcf26e356c46324ece3089/output/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="3227957f15e5f672f35758c028cf3b94fb39b56d">
+        <dex dex="/Users/shreyaasridhar/Downloads/android-samples-master/tutorials/CurrentPlaceDetailsOnMap/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_8363ffff186735210f7626bf8f7c3fe8a5c65779/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/shreyaasridhar/Downloads/android-samples-master/tutorials/CurrentPlaceDetailsOnMap/app/build/intermediates/incremental-runtime-classes/debug/instant-run.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="3be78ebc2706b2e1fe2f12d5726887a92d6c183b">
+        <dex dex="/Users/shreyaasridhar/Downloads/android-samples-master/tutorials/CurrentPlaceDetailsOnMap/app/build/intermediates/transforms/dex/debug/folders/1000/10000/instant-run_38e500045f3775a4a8ca8e3b333119ca750efed1/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/shreyaasridhar/.android/build-cache/1cf1b1304420425e6ba7f6a1d84c5a13454c4564/output/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="e820b7be8c035dd522da4bc822e8a76c8e27921a">
+        <dex dex="/Users/shreyaasridhar/Downloads/android-samples-master/tutorials/CurrentPlaceDetailsOnMap/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_8fce145e4115e5512dbb0575fae45edc388c0732/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/shreyaasridhar/.android/build-cache/43ffe4bcce82576736ef8ef67a3c771af269e9a6/output/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="2a8ae88a3addcb045172d340c4d1e977cbd50c39">
+        <dex dex="/Users/shreyaasridhar/Downloads/android-samples-master/tutorials/CurrentPlaceDetailsOnMap/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_2fd5fad30d8a87d33f715ee2f2f59ea07430ed5c/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/shreyaasridhar/.android/build-cache/b8b543bab45738669bded2a6ff6ecbc430713998/output/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="d1a80b23cc4097106a3f4914928e700ac3c5b2ed">
+        <dex dex="/Users/shreyaasridhar/Downloads/android-samples-master/tutorials/CurrentPlaceDetailsOnMap/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_2d30da8f8aac90973b040f9f8f5d6a3ef11aeb33/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/shreyaasridhar/.android/build-cache/bb5dbc273c360f664a05d321e0649726c69edf5b/output/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="0c6b6b87687475583a7841926cfcadef96280483">
+        <dex dex="/Users/shreyaasridhar/Downloads/android-samples-master/tutorials/CurrentPlaceDetailsOnMap/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_6f89eccb0cb67815d516864cb2cbf57fa65aaa8d/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/shreyaasridhar/.android/build-cache/cd630f1d2496a8ae98247741166a7f41c4ed674a/output/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="6ff3baea295d5079a6b54538c8eab744ea72b4cc">
+        <dex dex="/Users/shreyaasridhar/Downloads/android-samples-master/tutorials/CurrentPlaceDetailsOnMap/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_c6b1c1c8f4a6749f3433dffcef5130b66c733788/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/shreyaasridhar/.android/build-cache/462ae6860fe9d4fd90c5f5d481ff63a6151a63c8/output/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="36a6c288ed760d2d899126fa90761b84af10dd2d">
+        <dex dex="/Users/shreyaasridhar/Downloads/android-samples-master/tutorials/CurrentPlaceDetailsOnMap/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_de1e9591b460dfd8ad0422058b4d5b98a57419e0/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/shreyaasridhar/.android/build-cache/6922b053cd23cac00f5e161df957b70b4427b4b8/output/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="c478771eacdf8217e093a1b967b8152cfdaadc94">
+        <dex dex="/Users/shreyaasridhar/Downloads/android-samples-master/tutorials/CurrentPlaceDetailsOnMap/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_1be1a273ceb9b7d2d93d0f4b6aabbf59ee8e0ab2/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/shreyaasridhar/.android/build-cache/7bb6bed93ded3643dca0668a23e30dc474131db7/output/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="341fc0b4661ec63331b1d95d8ceaeb04f5fd25cd">
+        <dex dex="/Users/shreyaasridhar/Downloads/android-samples-master/tutorials/CurrentPlaceDetailsOnMap/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_31ab2a2d77e7e708eb0fd8ba0a3f3f724f0b2054/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/shreyaasridhar/.android/build-cache/bfcf2e7d7211b006228c2aeab9f5e61acf9c3860/output/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="702d339bc0a81d21354cd7e2cf2b67225fa4a16c">
+        <dex dex="/Users/shreyaasridhar/Downloads/android-samples-master/tutorials/CurrentPlaceDetailsOnMap/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_e20969adcfa5a5839a660d043020ef454c2013ba/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/shreyaasridhar/.android/build-cache/994a28a77f4530710206224245320e25061809ec/output/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="a93a72fe5e0ac12f4a8ff35c5a6ed651e142d10a">
+        <dex dex="/Users/shreyaasridhar/Downloads/android-samples-master/tutorials/CurrentPlaceDetailsOnMap/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_1289b5cb4bf3369f514d685afa187cbbc7259e39/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/shreyaasridhar/.android/build-cache/f81bab2246d9862794f1065b69e1178dea2c6dbc/output/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="814b7c015442bfbedc29035e7afdfe383d893a03">
+        <dex dex="/Users/shreyaasridhar/Downloads/android-samples-master/tutorials/CurrentPlaceDetailsOnMap/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_29b50d7f1215fd3de745091c0de1bccd81c991f9/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/shreyaasridhar/.android/build-cache/a8c4da5d08529da9b21b400c58a2b556cdbc643a/output/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="fc10e35f477578b1766c883d4a8561c207684531">
+        <dex dex="/Users/shreyaasridhar/Downloads/android-samples-master/tutorials/CurrentPlaceDetailsOnMap/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_86e3012031ff9e23d82a6b1f8d8b771bd8c9c12d/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/shreyaasridhar/.android/build-cache/d04ffbf6b2f4a03d725a378a0524475aa830174e/output/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="539c74d461960397d4c3f72623c72eb766569075">
+        <dex dex="/Users/shreyaasridhar/Downloads/android-samples-master/tutorials/CurrentPlaceDetailsOnMap/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_d5a25b908dff135e3d2d9b7eac5021f85232f65b/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/shreyaasridhar/.android/build-cache/6526fc415d2d110d5eac248ba4016c806b964c81/output/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="01a590e11a94cb7f5c8b1243d4a2783eab4d0a34">
+        <dex dex="/Users/shreyaasridhar/Downloads/android-samples-master/tutorials/CurrentPlaceDetailsOnMap/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_7f719012295fa23d71bdda36f298e589265e4489/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/shreyaasridhar/.android/build-cache/f63ac33a160fb3e9a4325514002cf53f20047caf/output/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="f5e24e901834850335a8bb7d95cf51ea1468a32a">
+        <dex dex="/Users/shreyaasridhar/Downloads/android-samples-master/tutorials/CurrentPlaceDetailsOnMap/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_347e56b4f012526b491fb28d73c01c4fd0aadb06/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/shreyaasridhar/.android/build-cache/ae60b2989a958393fd4fdf41220852b133d6510c/output/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="bd362e8a7451fb70f9d28498949c1be35e5a2e6e">
+        <dex dex="/Users/shreyaasridhar/Downloads/android-samples-master/tutorials/CurrentPlaceDetailsOnMap/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_ad8e2efd00e5a2d6726b92319e57ec1c0eeb6b5d/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/shreyaasridhar/.android/build-cache/117bdb31df081f0aeaaeba49ef321118699a8f3d/output/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="9d151a92bb0af74ea6368e57ddf0e03c609155b4">
+        <dex dex="/Users/shreyaasridhar/Downloads/android-samples-master/tutorials/CurrentPlaceDetailsOnMap/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_1bb00f9512ef51a74b48b170f7bf6793089b3b0c/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/shreyaasridhar/.android/build-cache/787abafbc624c4438dd1da0c2a50188d133be97a/output/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="010af21d7b95f7c975dd3d2fb2aa936a241b385b">
+        <dex dex="/Users/shreyaasridhar/Downloads/android-samples-master/tutorials/CurrentPlaceDetailsOnMap/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_aa1aed375a938f75766075a015b5d04723036f19/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/shreyaasridhar/.android/build-cache/01cd23f6624dbb384b8c553e0b1c1afc05e56276/output/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="c839ceb2113b00249e896c1c02ae15cdd8380345">
+        <dex dex="/Users/shreyaasridhar/Downloads/android-samples-master/tutorials/CurrentPlaceDetailsOnMap/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_057a2aa42ee0d1756dcda32027cee2fabff7965c/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/shreyaasridhar/.android/build-cache/4cd9e4289cfcf19f91f3176a132ccbdb320782cd/output/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="28ed270c519ff2874343e0824808da2efda0df9c">
+        <dex dex="/Users/shreyaasridhar/Downloads/android-samples-master/tutorials/CurrentPlaceDetailsOnMap/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_098f644a19845bd85e73ea17c10db936327022fd/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/shreyaasridhar/.android/build-cache/f4b552da2beb794669701ff1f21e80637a626e16/output/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="df812c448ef60fa0032ced451751ff98392b70a1">
+        <dex dex="/Users/shreyaasridhar/Downloads/android-samples-master/tutorials/CurrentPlaceDetailsOnMap/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_7ab4d4646ab233e917174189b1f5ab4f3943de99/classes.dex" />
+    </item>
+
+</items>
